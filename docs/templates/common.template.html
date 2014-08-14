@@ -1,0 +1,20 @@
+<h1>{{ doc.codeName }}</h1>
+<p>i18nDgeni({{ doc.description }})</p>
+
+{% if doc.params %}
+<h2>i18nDgeni(Params)</h2>
+<ul>
+{% for param in doc.params %}
+<li>
+  <strong>{{ param.name }}</strong> { {{ param.typeList }} } - i18nDgeni({{ param.description }})
+</li>
+{% endfor %}
+</ul>
+{% endif %}
+
+{% if doc.returns %}
+<h2>i18nDgeni(Returns)</h2>
+<p>
+  { {{ doc.returns.typeList }} } - i18nDgeni({{ doc.returns.description }})
+</p>
+{% endif %}

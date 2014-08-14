@@ -1,0 +1,54 @@
+{ 
+  "language": "de_DE",
+  "originLanguage": "en_GB",
+  "translations": {
+    "dc124689c7040d627a2c6490eec999443990ba30": {
+      "file": "common.template.html",
+      "inTemplate": true,
+      "origin": "Params",
+      "textToTranslate": "Parameter"
+    },
+    "9582a02f141fc4b345b2936eba691cd0654efebc": {
+      "file": "common.template.html",
+      "inTemplate": true,
+      "origin": "Returns",
+      "textToTranslate": "Retouren"
+    },
+    "fd7a5fdec42b0328aaea089648374698d0474f32": {
+      "file": "log.html",
+      "inTemplate": false,
+      "origin": "This function logs a string.",
+      "textToTranslate": "Diese Funktion protokolliert einen String."
+    },
+    "a00a2ccd4d80b161a1d79003af2b920c07a14884": {
+      "file": "myApp.html",
+      "inTemplate": false,
+      "origin": "My application",
+      "textToTranslate": "Meine Anwendung"
+    },
+    "9e3ff04211b4d57cd85b1782135a12f936aa41f4": {
+      "file": "greet.html",
+      "inTemplate": false,
+      "origin": "Display a greeting",
+      "textToTranslate": "Zeigt eine Gruß"
+    },
+    "775e9334bb3ff6b754ef9b06fb5bf27517b98853": {
+      "file": "greet.html",
+      "inTemplate": false,
+      "origin": "The name of the person to greet",
+      "textToTranslate": "Der Name der Person, um zu grüßen"
+    },
+    "3e708c58f998ba76d3dc71faa0c534dcfd74a1c7": {
+      "file": "helloWorld.html",
+      "inTemplate": false,
+      "origin": "This function returns a string.",
+      "textToTranslate": "Diese Funktion gibt einen String."
+    },
+    "bc4ccd3265aa90f97d163e1c3f8ea4cd8ecdf3af": {
+      "file": "helloWorld.html",
+      "inTemplate": false,
+      "origin": "This string has the value 'Hello World'.",
+      "textToTranslate": "Dieser String den Wert 'Hello World'."
+    }
+  }
+}
